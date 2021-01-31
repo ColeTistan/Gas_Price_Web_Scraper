@@ -1,8 +1,7 @@
-# Gas_Price_Web_Scraper
-A simple web scraper that will extract data from https://gasprices.aaa.com/. It scrapes the gas prices of each fuel type from all 50 states, and the national average of each gas price. 
+# Stock_Price_Web_Scraper
+A simple web scraper that will extract stock prices and statistics from Yahoo Finances. It scrapes the current stock price of a company, the company market cap, and many more statistical information. 
 
 ## Technologies Used:
-- HTML5
-- CSS3
-- JavaScript 
-- Cheerio
+- Python
+- Beautiful Soup
+- Flask
